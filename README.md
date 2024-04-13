@@ -10,10 +10,10 @@ Obrigado a toda equipe de T.I da Ciclo Cairu, pelo ensinamento, em especial ao E
 
 ## Agradecimento
 
-Gostaria de expressar meu profundo agradecimento a você por sua contribuição obrigado por ter visistado meu repositório, fico muito feliz!
+Gostaria de expressar meu profundo agradecimento a você por sua contribuição, obrigado por ter visistado meu repositório, fico muito feliz!
 
 ## Contato
 
 Tharlis David em todas as redes sociais
 
-###"O verdadeiro conhecimento é saber que não se sabe." - Confúcio
+##"O verdadeiro conhecimento é saber que não se sabe." - Confúcio
