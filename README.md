@@ -1,4 +1,4 @@
-# Título do Projeto
+# Atividade do treinamento de Git GitHub
 
 Projeto dedicado a exercitar as habilidades adiquiridas nas ferramentas Git e GitHub.
 
@@ -8,11 +8,12 @@ Projeto dedicado a exercitar as habilidades adiquiridas nas ferramentas Git e Gi
 
 Obrigado a toda equipe de T.I da Ciclo Cairu, pelo ensinamento, em especial ao Ezio, além de um grande amigo, um excelente instrutor, valeu mestre!
 
-## Licença
+## Agradecimento
 
-Obrigado por ter visistado meu repositório, fico muito feliz!
+Gostaria de expressar meu profundo agradecimento a você por sua contribuição obrigado por ter visistado meu repositório, fico muito feliz!
 
 ## Contato
 
-Forneça informações de contato, caso alguém queira entrar em contato com você sobre o projeto. Isso pode incluir seu e-mail, perfil em redes sociais ou links para outros canais de comunicação.
+Tharlis David em todas as redes sociais
 
+###"O verdadeiro conhecimento é saber que não se sabe." - Confúcio
